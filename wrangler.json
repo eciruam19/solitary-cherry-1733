@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "solitary-cherry-1733",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5b2489bd-b00f-461a-b32f-d9d661ff57a9",
+      "database_name": "solitary-cherry-1733-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
